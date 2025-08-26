@@ -32,7 +32,7 @@ The purpose of building this dashboard is to:
 - **Data Source:** Kaggle Dataset  
 
 ## 📸 Dashboard Preview  
-![EV Dashboard Screenshot](.(https://github.com/tushar0215/Electric_Vehicle_data_analysis/blob/main/Electric%20Vehicle%20Dashboard.png)  
+![EV Dashboard Screenshot](https://github.com/tushar0215/Electric_Vehicle_data_analysis/blob/main/Electric%20Vehicle%20Dashboard.png)  
 
 ## ✅ Key Insights  
 - Tesla dominates the EV market with the highest share of vehicles  
